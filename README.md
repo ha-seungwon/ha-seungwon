@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-seungwon&layout=compact)](https://github.com/ha-seungwon/github-readme-stats)
+
+
  <a href="https://www.instagram.com/ha_seungweon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
