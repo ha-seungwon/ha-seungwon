@@ -1,6 +1,6 @@
 # :muscle: Ha Seung Won
 
-[하승원][!seugwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-seungwon&show_icons=true&theme=radical)
+![seugwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-seungwon&show_icons=true&theme=radical)
 
 
 
