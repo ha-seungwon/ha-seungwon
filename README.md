@@ -2,6 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs5056056)](https://solved.ac/hs5056056)
 
+![seugwon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=raeunlee&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=ha-seungwon&show_icons=true&theme=radical))
 
 
 # :school: School
